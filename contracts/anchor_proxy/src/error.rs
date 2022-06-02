@@ -35,4 +35,10 @@ pub enum ContractError {
 
   #[error("unauthorized message for hot wallet")]
   UnauthorizedHotMessage,
+
+  #[error("reply id not implemented")]
+  InvalidReceiveMsg {},
+
+  #[error("must deposit positive number of assets")]
+  InvalidDepositAmount {},
 }

@@ -1,1 +1,2 @@
-8423fbb6511fad13d077bdccc31c5c55f2ac19a2925115f9f3c638d5043aeeb7  target/wasm32-unknown-unknown/release/smartwallet_wallet.wasm
+a0712a60a5dc4095d13474e7c37faaa853f414859d4ed7f3a8f9235cc6978170  target/wasm32-unknown-unknown/release/smartwallet_anchorproxy.wasm
+21489f0091a0bf11b07a0fc88ddce8d81595c6206c214cff7fb3d83c9d846bc8  target/wasm32-unknown-unknown/release/smartwallet_wallet.wasm
